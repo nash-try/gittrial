@@ -1,4 +1,4 @@
-package com.mycompany.gitter;
+package blanched;
 
 /**
  * Hello world!
