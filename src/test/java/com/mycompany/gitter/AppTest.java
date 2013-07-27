@@ -21,7 +21,7 @@ public class AppTest
      */
     public static Test suite()
     {
-        System.out.println("staged!!");
+        System.out.println("truffle!!");
         return new TestSuite( AppTest.class );
     }
 
