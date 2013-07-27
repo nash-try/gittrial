@@ -25,6 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
+        System.out.println("staged!!");
         return new TestSuite( AppTest.class );
     }
 
